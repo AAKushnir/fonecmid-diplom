@@ -432,6 +432,7 @@
   </handlers>
   <excludedCommands>CreateFolder</excludedCommands>
   <excludedCommands>MoveItem</excludedCommands>
+  <saveWindowSettings>true</saveWindowSettings>
   <autoTitle>true</autoTitle>
   <autoUrl>true</autoUrl>
   <group>Vertical</group>
